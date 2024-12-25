@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.fr-toolbar .fr-btn-grp {
+  margin: 0 !important;
+}
+
+.grayTableBorder,
+.grayTableBorder tr th,
+.grayTableBorder tr td {
+  border: 1px solid lightgray !important;
+  border-collapse: collapse;
+}
+
+.blackTableBorder,
+.blackTableBorder tr th,
+.blackTableBorder tr td {
+  border: 1px solid black !important;
+  border-collapse: collapse;
+}
+
+.noTableBorder,
+.noTableBorder tr th,
+.noTableBorder tr td {
+  border: none !important;
+  border-collapse: collapse;
+}
